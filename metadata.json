@@ -1,0 +1,9 @@
+{
+  "name": "Nong Thum Rescue",
+  "description": "ระบบรับแจ้งเหตุเพลิงไหม้และกู้ชีพ อบต.หนองทุ่ม",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
